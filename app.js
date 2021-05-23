@@ -1,0 +1,1 @@
+const kskdklsl = document.getElementById;
